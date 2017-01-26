@@ -1,5 +1,5 @@
 {
-  "name": "game1014-w2017-lesson3",
+  "name": "game1014-w2017-Phaser",
   "version": "1.0.0",
   "description": "Mail Pilot Project",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeorgeBrownCollege/GAME1014-W2017-Lesson3.git"
+    "url": "git+https://github.com/GeorgeBrownCollege/GAME1014-W2017-Phaser"
   },
   "keywords": [
     "TypeScript",
@@ -17,9 +17,9 @@
   "author": "Tom Tsiliopoulos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GeorgeBrownCollege/GAME1014-W2017-Lesson3/issues"
+    "url": "https://github.com/GeorgeBrownCollege/GAME1014-W2017-Phaser/issues"
   },
-  "homepage": "https://github.com/GeorgeBrownCollege/GAME1014-W2017-Lesson3#readme",
+  "homepage": "https://github.com/GeorgeBrownCollege/GAME1014-W2017-Phaser.git#readme",
   "dependencies": {
     "@types/easeljs": "^0.8.35",
     "@types/preloadjs": "^0.6.32",
